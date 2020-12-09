@@ -1,0 +1,6 @@
+name: DojoClientServerSideImplementation
+main: DojoClient.server.Main
+version: 1.0.0
+author: Bardia Anvari
+description: Allows for server side implementation of client features exclusive to DojoClient
+depend: [ProtocolLib]

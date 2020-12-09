@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DojoClientServerSideIntegration:jar">
+    <output-path>$PROJECT_DIR$/../../../ClientTestServer/plugins</output-path>
+    <root id="archive" name="DojoClientServerSideIntegration.jar">
+      <element id="module-output" name="DojoClientServerSideIntegration" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../ClientTestServer/server.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lib/ProtocolLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
